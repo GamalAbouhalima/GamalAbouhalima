@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Gamal Abdallah Abouhalima
+# Hi there 👋, I'm Gamal Abdallah
 
 ## 👨‍💻 About Me
 I am a **Junior C# & .NET Developer** learning backend development.  
@@ -7,7 +7,7 @@ Focused on **ASP.NET Core**, **C#**, and **SQL Server**.
 - 🔭 Currently building small projects to improve my skills  
 - 🌱 Learning **Web APIs**, **Database Integration**, and **IIS deployment**  
 - 💬 Ask me about **C#**, **.NET**, or **backend development**  
-- 📫 Reach me via [LinkedIn](Your_LinkedIn_Link)
+- 📫 Reach me via [LinkedIn]([Your_LinkedIn_Link](https://www.linkedin.com/in/gamal-abouhalima-47193a163/))
 
 ---
 
@@ -22,6 +22,21 @@ Focused on **ASP.NET Core**, **C#**, and **SQL Server**.
 
 ---
 
+## 📈 Skill Progress
+**C#**  
+![C#](https://img.shields.io/badge/C%23-70%25-yellow?style=for-the-badge)
+
+**.NET**  
+![.NET](https://img.shields.io/badge/.NET-60%25-blue?style=for-the-badge)
+
+**ASP.NET Core**  
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-50%25-purple?style=for-the-badge)
+
+**SQL Server**  
+![SQL Server](https://img.shields.io/badge/SQL_Server-40%25-red?style=for-the-badge)
+
+---
+
 ## 📂 Projects
 | Project | Description |
 |---------|-------------|
@@ -31,18 +46,9 @@ Focused on **ASP.NET Core**, **C#**, and **SQL Server**.
 
 ---
 
-## 📈 Learning Path
-1. **C# Basics**: Variables, Loops, OOP  
-2. **.NET & .NET Core**: Console Apps & Libraries  
-3. **ASP.NET Core**: Web APIs, MVC  
-4. **Database Integration**: SQL Server, CRUD operations  
-5. **Deployment**: IIS & Windows hosting
-
----
-
 ## 📊 GitHub Stats
-
-![Gamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamalAbouhalima&show_icons=true&theme=radical)
+![Gamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GamalAbouhalima&show_icons=true&theme=radical)  
+![Gamal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GamalAbouhalima&layout=compact&theme=radical)
 
 ---
 
@@ -51,6 +57,3 @@ Focused on **ASP.NET Core**, **C#**, and **SQL Server**.
 - Master backend development  
 - Write clean, scalable, maintainable code  
 - Share progress & learning journey on GitHub
-
----
-
