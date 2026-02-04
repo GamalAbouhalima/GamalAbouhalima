@@ -47,8 +47,9 @@ Focused on **ASP.NET Core**, **C#**, and **SQL Server**.
 ---
 
 ## 📊 GitHub Stats
-![Gamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GamalAbouhalima&show_icons=true&count_private=true&theme=radical&hide=prs)
-![Gamal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GamalAbouhalima&layout=compact&theme=radical&count_private=true)
+![Gamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GamalAbouhalima&show_icons=true&theme=radical)
+![Gamal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GamalAbouhalima&layout=compact&theme=radical)
+
 
 
 ---
