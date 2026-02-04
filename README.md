@@ -7,7 +7,7 @@ Focused on **ASP.NET Core**, **C#**, and **SQL Server**.
 - 🔭 Currently building small projects to improve my skills  
 - 🌱 Learning **Web APIs**, **Database Integration**, and **IIS deployment**  
 - 💬 Ask me about **C#**, **.NET**, or **backend development**  
-- 📫 Reach me via [LinkedIn]([Your_LinkedIn_Link](https://www.linkedin.com/in/gamal-abouhalima-47193a163/))
+- 📫 Reach me via [LinkedIn]([https://www.linkedin.com/in/gamal-abouhalima-47193a163/])
 
 ---
 
@@ -47,8 +47,9 @@ Focused on **ASP.NET Core**, **C#**, and **SQL Server**.
 ---
 
 ## 📊 GitHub Stats
-![Gamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GamalAbouhalima&show_icons=true&theme=radical)  
-![Gamal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GamalAbouhalima&layout=compact&theme=radical)
+![Gamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GamalAbouhalima&show_icons=true&count_private=true&theme=radical&hide=prs)
+![Gamal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GamalAbouhalima&layout=compact&theme=radical&count_private=true)
+
 
 ---
 
